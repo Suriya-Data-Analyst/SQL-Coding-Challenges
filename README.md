@@ -1,3 +1,31 @@
+<p align="center">
+  <img src="sql-coding-challenge.png"
+       width="100%"
+       alt="SQL Coding Challenge">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JOINS-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SUBQUERIES-1F6FEB?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CTE-5B2C83?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AGGREGATIONS-B8860B?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WINDOW%20FUNCTIONS-C98A00?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GROUP%20BY-8B6508?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORDER%20BY-6B4F00?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYSIS-A67C00?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PROBLEM%20SOLVING-D4AF37?style=for-the-badge&logo=checkmarx&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PROJECT-COMPLETED-70AD47?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+</p>
+
+<br>
+
+---
 🚀 SQL Coding Challenges Portfolio
 Welcome to my SQL Portfolio! This repository contains my SQL coding challenge journey where I practiced database creation, data manipulation, joins, subqueries, and advanced SQL concepts using multiple databases.
 
